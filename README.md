@@ -2,14 +2,14 @@
 
 # CRC-16 Bit Error Detection 
 
-## 🧠 AIM
+##  AIM
 To write a program for error detection using the Cyclic Redundancy Check (CRC-16 bit) technique.
 
-## 🛠️ EQUIPMENTS REQUIRED
+##  EQUIPMENTS REQUIRED
 1. Personal Computer  
 2. C++ Compiler
 
-## 📋 ALGORITHM
+##  ALGORITHM
 1. Open Code::Blocks application and create a new file.  
 2. Type the code provided below.  
 3. Save the file with a `.c` extension in the desired location.  
@@ -17,7 +17,7 @@ To write a program for error detection using the Cyclic Redundancy Check (CRC-16
 5. Provide polynomial values to generate the output polynomial using the CRC error detection technique.  
 6. The output polynomial is obtained through this technique.
 
-## 💻 PROGRAM
+##  PROGRAM
 
 ```c
 #include<stdio.h>
@@ -75,12 +75,11 @@ void main() {
 
 
 }
+```
+##  OUTPUT
 
-## 💻 OUTPUT
-
-<img width="724" height="331" alt="image" src="https://github.com/user-attachments/assets/1f5d9e2b-ad28-4b27-8d96-a50fc26f9752" />
-
-
+<img width="1920" height="1080" alt="212222060192_CRC" src="https://github.com/user-attachments/assets/eed36d7d-abc3-4788-853d-a177325d7c5a" />
 
 
-
+# RESULT:
+Thus the error detection using CRC-CCITT[16 bit] technique is implemented and the output is obtained and verified successfully.
